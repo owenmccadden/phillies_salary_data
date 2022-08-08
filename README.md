@@ -1,9 +1,13 @@
 # Owen McCadden: Phillies Baseball R&D Questionnaire
 
 This repo contains my solution to the Phillies Baseball R&D Questionnaire. The files are hosted on Google Colab here:
-- Part A:
-- Part B: 
-- Notes: 
+
+- Part A: https://colab.research.google.com/github/owenmccadden/phillies_salary_data/blob/main/part_a.ipynb
+- Part B: https://colab.research.google.com/github/owenmccadden/phillies_salary_data/blob/main/part_b.ipynb
+- Notes: https://colab.research.google.com/github/owenmccadden/phillies_salary_data/blob/main/notes.ipynb
+
+- Questionairre: https://questionnaire-148920.appspot.com/swe/
+- Data: https://questionnaire-148920.appspot.com/swe/data.html
 
 ## Part A
 
